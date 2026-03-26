@@ -145,8 +145,16 @@ map_open
 
 Проект включает анимацию процесса поиска пути RRT*:
 - `exp1_rrt_animation.gif` — открытое пространство
+
+![HW5_PathPlanning](rrt_animation.gif)
+  
 - `exp2_rrt_animation.gif` — узкий коридор
+
+![HW5_PathPlanning](exp2_rrt_animation.gif)
+  
 - `exp3_rrt_animation.gif` — лабиринт
+
+![HW5_PathPlanning](exp3_rrt_animation.gif)
 
 ---
 
