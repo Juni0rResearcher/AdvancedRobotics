@@ -35,7 +35,7 @@
 
 Визуализация пути по данным GPS
 
-![plots](gps_trajectory.png)
+![Траектория GPS](plots/gps_trajectory.png)
 
 ### Структура CSV файла:
 ```
@@ -165,6 +165,8 @@ jupyter notebook HW2_LinearKalmanFilter_Iuzhanin_Andrei.ipynb
 1. **График траектории** — путь в координатах широта/долгота
 2. **Сравнение дистанций** — GPS vs Kalman Filter
 3. **Сравнение скоростей** — GPS скорость vs скорость от KF
+
+![Сравнение GPS и KF](plots/gps_vs_kf.png)
 
 ---
 
