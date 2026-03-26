@@ -127,17 +127,18 @@ selected_map = 'map_open.png'      # Открытое пространство
 6. **Сравнительная таблица** — метрики производительности
 
 ### Пример визуализации:
-map_maze
 
-![HW5_PathPlanning](map_maze.png)
+map_open
+
+![HW5_PathPlanning](map_open.png)
 
 map_corridor
 
 ![HW5_PathPlanning](map_corridor.png)
 
-map_open
+map_maze
 
-![HW5_PathPlanning](map_open.png)
+![HW5_PathPlanning](map_maze.png)
 
 ---
 
@@ -148,11 +149,11 @@ map_open
 
 ![HW5_PathPlanning](rrt_animation.gif)
   
-- `exp2_rrt_animation.gif` — узкий коридор
+- `exp3_rrt_animation.gif` — лабиринт
 
 ![HW5_PathPlanning](exp2_rrt_animation.gif)
   
-- `exp3_rrt_animation.gif` — лабиринт
+- `exp2_rrt_animation.gif` — узкий коридор
 
 ![HW5_PathPlanning](exp3_rrt_animation.gif)
 
@@ -224,34 +225,4 @@ map_open
 
 **Андрей Южанин**  
 MS25_RO_01  
-[GitHub](https://github.com/your-username)  
-[Email](mailto:your-email@example.com)
-
----
-
-## 📄 Лицензия
-
-Этот проект создан в образовательных целях.
-
----
-
-## 🙏 Благодарности
-
-- Курс по робототехнике MS25_RO_01
-- Библиотеки: NumPy, Matplotlib, Pillow
-
----
-
-## 📞 Контакты
-
-По вопросам и предложениям обращайтесь:
-- Email: your-email@example.com
-- GitHub: [your-username](https://github.com/your-username)
-
----
-
-<div align="center">
-
-**Если проект был полезен, поставьте ⭐ звезду!**
-
-</div>
+[GitHub](https://github.com/Juni0rResearcher)  
