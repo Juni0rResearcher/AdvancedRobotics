@@ -33,6 +33,10 @@
 | **Акселерометр** | Ускорение по осям X, Y, Z (без гравитации) |
 | **Частота дискретизации** | ~100 Гц (dt ≈ 0.01 с) |
 
+Визуализация пути по данным GPS
+
+![HW2_LinearKalmanFilter/plots](gps_trajectory.png)
+
 ### Структура CSV файла:
 ```
 time, ax, ay, az, latitude, longitude, altitude, speed
