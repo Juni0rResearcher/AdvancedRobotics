@@ -127,7 +127,17 @@ selected_map = 'map_open.png'      # Открытое пространство
 6. **Сравнительная таблица** — метрики производительности
 
 ### Пример визуализации:
+map_maze
+
 ![HW5_PathPlanning](map_maze.png)
+
+map_corridor
+
+![HW5_PathPlanning](map_corridor.png)
+
+map_open
+
+![HW5_PathPlanning](map_open.png)
 
 ---
 
