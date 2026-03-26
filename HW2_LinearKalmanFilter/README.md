@@ -35,7 +35,7 @@
 
 Визуализация пути по данным GPS
 
-![HW2_LinearKalmanFilter/plots](gps_trajectory.png)
+![plots](gps_trajectory.png)
 
 ### Структура CSV файла:
 ```
